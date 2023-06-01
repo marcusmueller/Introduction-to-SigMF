@@ -1,0 +1,1690 @@
+{
+    "global": {
+        "antenna:gain": 30,
+        "antenna:type": "Tagolas TG.55.8113",
+        "core:datatype": "ci16_le",
+        "core:description": "Bluetooth Recording",
+        "core:sample_rate": 40000000,
+        "core:author": "Jacob Gilbert",
+        "core:recorder": "OmniSIG",
+        "core:hw": "USRP B200mini",
+        "core:license": "CC BY-SA",
+        "core:extensions": [
+            {
+                "name": "antenna",
+                "version": "1.0.0",
+                "optional": true
+            },
+            {
+                "name": "capture_details",
+                "version": "1.0.0",
+                "optional": true
+            }
+        ]
+    },
+    "captures": [
+        {
+            "core:datetime": "2021-10-19T18:02:12Z",
+            "core:frequency": 2420000000,
+            "core:sample_start": 0
+        }
+    ],
+    "annotations": [
+        {
+            "core:sample_start": 904328,
+            "core:sample_count": 4244,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.441696166992188
+        },
+        {
+            "core:sample_start": 941882,
+            "core:sample_count": 4182,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.462108612060547
+        },
+        {
+            "core:sample_start": 991900,
+            "core:sample_count": 4184,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.913455963134766
+        },
+        {
+            "core:sample_start": 1054404,
+            "core:sample_count": 4144,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.327224731445312
+        },
+        {
+            "core:sample_start": 1141888,
+            "core:sample_count": 4152,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 19.793853759765625
+        },
+        {
+            "core:sample_start": 1191856,
+            "core:sample_count": 4224,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.24365997314453
+        },
+        {
+            "core:sample_start": 1304378,
+            "core:sample_count": 4254,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 15.606843948364258
+        },
+        {
+            "core:sample_start": 1341892,
+            "core:sample_count": 4164,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.48642349243164
+        },
+        {
+            "core:sample_start": 1391860,
+            "core:sample_count": 4214,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.497922897338867
+        },
+        {
+            "core:sample_start": 1454414,
+            "core:sample_count": 4134,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.23238754272461
+        },
+        {
+            "core:sample_start": 1541908,
+            "core:sample_count": 4142,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.381004333496094
+        },
+        {
+            "core:sample_start": 1591856,
+            "core:sample_count": 4234,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.50356674194336
+        },
+        {
+            "core:sample_start": 1704358,
+            "core:sample_count": 4282,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 15.682249069213867
+        },
+        {
+            "core:sample_start": 1741892,
+            "core:sample_count": 4162,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.52139663696289
+        },
+        {
+            "core:sample_start": 1791870,
+            "core:sample_count": 4184,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.9517822265625
+        },
+        {
+            "core:sample_start": 1854424,
+            "core:sample_count": 4124,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.043336868286133
+        },
+        {
+            "core:sample_start": 1941888,
+            "core:sample_count": 4172,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 19.985719680786133
+        },
+        {
+            "core:sample_start": 1991856,
+            "core:sample_count": 4224,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.217376708984375
+        },
+        {
+            "core:sample_start": 2104328,
+            "core:sample_count": 4352,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 15.846494674682617
+        },
+        {
+            "core:sample_start": 2141902,
+            "core:sample_count": 4152,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.243316650390625
+        },
+        {
+            "core:sample_start": 2191770,
+            "core:sample_count": 4392,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.326251983642578
+        },
+        {
+            "core:sample_start": 2254414,
+            "core:sample_count": 4162,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.885690689086914
+        },
+        {
+            "core:sample_start": 2341818,
+            "core:sample_count": 4324,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.62564468383789
+        },
+        {
+            "core:sample_start": 2391846,
+            "core:sample_count": 4234,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.531904220581055
+        },
+        {
+            "core:sample_start": 2504338,
+            "core:sample_count": 4312,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.522689819335938
+        },
+        {
+            "core:sample_start": 2541902,
+            "core:sample_count": 4134,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.23601531982422
+        },
+        {
+            "core:sample_start": 2591880,
+            "core:sample_count": 4174,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.588424682617188
+        },
+        {
+            "core:sample_start": 2654414,
+            "core:sample_count": 4134,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.55537986755371
+        },
+        {
+            "core:sample_start": 2741898,
+            "core:sample_count": 4142,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.17703628540039
+        },
+        {
+            "core:sample_start": 2791856,
+            "core:sample_count": 4244,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.133148193359375
+        },
+        {
+            "core:sample_start": 2904358,
+            "core:sample_count": 4214,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.13857650756836
+        },
+        {
+            "core:sample_start": 2941932,
+            "core:sample_count": 4144,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.58706283569336
+        },
+        {
+            "core:sample_start": 2991900,
+            "core:sample_count": 4164,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.965187072753906
+        },
+        {
+            "core:sample_start": 3066930,
+            "core:sample_count": 4112,
+            "core:freq_upper_edge": 2433625000,
+            "core:freq_lower_edge": 2432375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.592369079589844
+        },
+        {
+            "core:sample_start": 3216936,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.81318473815918
+        },
+        {
+            "core:sample_start": 3741942,
+            "core:sample_count": 12362,
+            "core:freq_upper_edge": 2421625000,
+            "core:freq_lower_edge": 2420375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.093399047851562
+        },
+        {
+            "core:sample_start": 3766872,
+            "core:sample_count": 6448,
+            "core:freq_upper_edge": 2418625000,
+            "core:freq_lower_edge": 2417375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.46224021911621
+        },
+        {
+            "core:sample_start": 3791940,
+            "core:sample_count": 6388,
+            "core:freq_upper_edge": 2423625000,
+            "core:freq_lower_edge": 2422375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.355058670043945
+        },
+        {
+            "core:sample_start": 3816940,
+            "core:sample_count": 6318,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.88959312438965
+        },
+        {
+            "core:sample_start": 4391856,
+            "core:sample_count": 6506,
+            "core:freq_upper_edge": 2402625000,
+            "core:freq_lower_edge": 2401375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.49191665649414
+        },
+        {
+            "core:sample_start": 4841944,
+            "core:sample_count": 13574,
+            "core:freq_upper_edge": 2431625000,
+            "core:freq_lower_edge": 2430375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.122150421142578
+        },
+        {
+            "core:sample_start": 4866954,
+            "core:sample_count": 6328,
+            "core:freq_upper_edge": 2422625000,
+            "core:freq_lower_edge": 2421375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.61338233947754
+        },
+        {
+            "core:sample_start": 4891954,
+            "core:sample_count": 6356,
+            "core:freq_upper_edge": 2435625000,
+            "core:freq_lower_edge": 2434375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.0543270111084
+        },
+        {
+            "core:sample_start": 4941942,
+            "core:sample_count": 6386,
+            "core:freq_upper_edge": 2429625000,
+            "core:freq_lower_edge": 2428375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.132083892822266
+        },
+        {
+            "core:sample_start": 4991950,
+            "core:sample_count": 6368,
+            "core:freq_upper_edge": 2433625000,
+            "core:freq_lower_edge": 2432375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.646081924438477
+        },
+        {
+            "core:sample_start": 5016942,
+            "core:sample_count": 13552,
+            "core:freq_upper_edge": 2418625000,
+            "core:freq_lower_edge": 2417375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.130144119262695
+        },
+        {
+            "core:sample_start": 5066920,
+            "core:sample_count": 6386,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.31138801574707
+        },
+        {
+            "core:sample_start": 5166946,
+            "core:sample_count": 6328,
+            "core:freq_upper_edge": 2430625000,
+            "core:freq_lower_edge": 2429375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.97646713256836
+        },
+        {
+            "core:sample_start": 5641874,
+            "core:sample_count": 6518,
+            "core:freq_upper_edge": 2402625000,
+            "core:freq_lower_edge": 2401375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 13.008193969726562
+        },
+        {
+            "core:sample_start": 5841960,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2434625000,
+            "core:freq_lower_edge": 2433375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.413593292236328
+        },
+        {
+            "core:sample_start": 5891878,
+            "core:sample_count": 6522,
+            "core:freq_upper_edge": 2436625000,
+            "core:freq_lower_edge": 2435375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.38153076171875
+        },
+        {
+            "core:sample_start": 5941948,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2430625000,
+            "core:freq_lower_edge": 2429375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.825164794921875
+        },
+        {
+            "core:sample_start": 5991956,
+            "core:sample_count": 6346,
+            "core:freq_upper_edge": 2432625000,
+            "core:freq_lower_edge": 2431375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.88419532775879
+        },
+        {
+            "core:sample_start": 6066944,
+            "core:sample_count": 6338,
+            "core:freq_upper_edge": 2407625000,
+            "core:freq_lower_edge": 2406375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.071569442749023
+        },
+        {
+            "core:sample_start": 6116944,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.11945152282715
+        },
+        {
+            "core:sample_start": 6291958,
+            "core:sample_count": 6358,
+            "core:freq_upper_edge": 2428625000,
+            "core:freq_lower_edge": 2427375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.434297561645508
+        },
+        {
+            "core:sample_start": 6316948,
+            "core:sample_count": 8740,
+            "core:freq_upper_edge": 2425625000,
+            "core:freq_lower_edge": 2424375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.71288299560547
+        },
+        {
+            "core:sample_start": 6341958,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2422625000,
+            "core:freq_lower_edge": 2421375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.572099685668945
+        },
+        {
+            "core:sample_start": 6366968,
+            "core:sample_count": 8708,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.401222229003906
+        },
+        {
+            "core:sample_start": 6391956,
+            "core:sample_count": 15966,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.55923080444336
+        },
+        {
+            "core:sample_start": 6416956,
+            "core:sample_count": 6326,
+            "core:freq_upper_edge": 2417625000,
+            "core:freq_lower_edge": 2416375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.90668487548828
+        },
+        {
+            "core:sample_start": 6641960,
+            "core:sample_count": 9360,
+            "core:freq_upper_edge": 2418625000,
+            "core:freq_lower_edge": 2417375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.906513214111328
+        },
+        {
+            "core:sample_start": 6691868,
+            "core:sample_count": 6534,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.279109954833984
+        },
+        {
+            "core:sample_start": 6741966,
+            "core:sample_count": 10552,
+            "core:freq_upper_edge": 2414625000,
+            "core:freq_lower_edge": 2413375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.56374168395996
+        },
+        {
+            "core:sample_start": 6791936,
+            "core:sample_count": 6406,
+            "core:freq_upper_edge": 2416625000,
+            "core:freq_lower_edge": 2415375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.501789093017578
+        },
+        {
+            "core:sample_start": 6841884,
+            "core:sample_count": 6540,
+            "core:freq_upper_edge": 2410625000,
+            "core:freq_lower_edge": 2409375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.266860961914062
+        },
+        {
+            "core:sample_start": 6866954,
+            "core:sample_count": 8740,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.5207462310791
+        },
+        {
+            "core:sample_start": 7641920,
+            "core:sample_count": 9420,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.453792572021484
+        },
+        {
+            "core:sample_start": 7691984,
+            "core:sample_count": 9340,
+            "core:freq_upper_edge": 2436625000,
+            "core:freq_lower_edge": 2435375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.848033905029297
+        },
+        {
+            "core:sample_start": 7741952,
+            "core:sample_count": 9380,
+            "core:freq_upper_edge": 2418625000,
+            "core:freq_lower_edge": 2417375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.444847106933594
+        },
+        {
+            "core:sample_start": 7791932,
+            "core:sample_count": 9378,
+            "core:freq_upper_edge": 2434625000,
+            "core:freq_lower_edge": 2433375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.667217254638672
+        },
+        {
+            "core:sample_start": 7841970,
+            "core:sample_count": 9330,
+            "core:freq_upper_edge": 2428625000,
+            "core:freq_lower_edge": 2427375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.706066131591797
+        },
+        {
+            "core:sample_start": 7941948,
+            "core:sample_count": 6356,
+            "core:freq_upper_edge": 2426625000,
+            "core:freq_lower_edge": 2425375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.45172882080078
+        },
+        {
+            "core:sample_start": 7969024,
+            "core:sample_count": 7806,
+            "core:freq_upper_edge": 2439625000,
+            "core:freq_lower_edge": 2438375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.869300842285156
+        },
+        {
+            "core:sample_start": 8041954,
+            "core:sample_count": 8790,
+            "core:freq_upper_edge": 2416625000,
+            "core:freq_lower_edge": 2415375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.521455764770508
+        },
+        {
+            "core:sample_start": 8091974,
+            "core:sample_count": 8728,
+            "core:freq_upper_edge": 2432625000,
+            "core:freq_lower_edge": 2431375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.86272621154785
+        },
+        {
+            "core:sample_start": 8141962,
+            "core:sample_count": 8750,
+            "core:freq_upper_edge": 2414625000,
+            "core:freq_lower_edge": 2413375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.335115432739258
+        },
+        {
+            "core:sample_start": 8191972,
+            "core:sample_count": 8728,
+            "core:freq_upper_edge": 2430625000,
+            "core:freq_lower_edge": 2429375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.70407485961914
+        },
+        {
+            "core:sample_start": 8241970,
+            "core:sample_count": 8748,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.480979919433594
+        },
+        {
+            "core:sample_start": 8341958,
+            "core:sample_count": 8758,
+            "core:freq_upper_edge": 2422625000,
+            "core:freq_lower_edge": 2421375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.949115753173828
+        },
+        {
+            "core:sample_start": 8391956,
+            "core:sample_count": 8760,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.95789337158203
+        },
+        {
+            "core:sample_start": 8791966,
+            "core:sample_count": 8748,
+            "core:freq_upper_edge": 2425625000,
+            "core:freq_lower_edge": 2424375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.259971618652344
+        },
+        {
+            "core:sample_start": 8816916,
+            "core:sample_count": 15926,
+            "core:freq_upper_edge": 2412625000,
+            "core:freq_lower_edge": 2411375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.426870346069336
+        },
+        {
+            "core:sample_start": 8841874,
+            "core:sample_count": 6508,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.012481689453125
+        },
+        {
+            "core:sample_start": 8866924,
+            "core:sample_count": 9340,
+            "core:freq_upper_edge": 2403625000,
+            "core:freq_lower_edge": 2402375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.4160099029541
+        },
+        {
+            "core:sample_start": 8891954,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.340648651123047
+        },
+        {
+            "core:sample_start": 8916924,
+            "core:sample_count": 6326,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.743553161621094
+        },
+        {
+            "core:sample_start": 8991930,
+            "core:sample_count": 6388,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.639785766601562
+        },
+        {
+            "core:sample_start": 9016902,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.103363037109375
+        },
+        {
+            "core:sample_start": 10041914,
+            "core:sample_count": 6448,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.85761833190918
+        },
+        {
+            "core:sample_start": 10091954,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2421625000,
+            "core:freq_lower_edge": 2420375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.85348892211914
+        },
+        {
+            "core:sample_start": 11291952,
+            "core:sample_count": 6418,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.976337432861328
+        },
+        {
+            "core:sample_start": 11316894,
+            "core:sample_count": 10550,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.47842788696289
+        },
+        {
+            "core:sample_start": 11391910,
+            "core:sample_count": 6448,
+            "core:freq_upper_edge": 2407625000,
+            "core:freq_lower_edge": 2406375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.525829315185547
+        },
+        {
+            "core:sample_start": 11416872,
+            "core:sample_count": 6442,
+            "core:freq_upper_edge": 2407625000,
+            "core:freq_lower_edge": 2406375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 26.371883392333984
+        },
+        {
+            "core:sample_start": 11441970,
+            "core:sample_count": 6386,
+            "core:freq_upper_edge": 2417625000,
+            "core:freq_lower_edge": 2416375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.674400329589844
+        },
+        {
+            "core:sample_start": 11466930,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2417625000,
+            "core:freq_lower_edge": 2416375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.043249130249023
+        },
+        {
+            "core:sample_start": 11491948,
+            "core:sample_count": 6396,
+            "core:freq_upper_edge": 2425625000,
+            "core:freq_lower_edge": 2424375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.957014083862305
+        },
+        {
+            "core:sample_start": 11516948,
+            "core:sample_count": 6298,
+            "core:freq_upper_edge": 2425625000,
+            "core:freq_lower_edge": 2424375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.844141006469727
+        },
+        {
+            "core:sample_start": 12541902,
+            "core:sample_count": 10610,
+            "core:freq_upper_edge": 2433625000,
+            "core:freq_lower_edge": 2432375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.7574405670166
+        },
+        {
+            "core:sample_start": 12566912,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2433625000,
+            "core:freq_lower_edge": 2432375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.544940948486328
+        },
+        {
+            "core:sample_start": 12841984,
+            "core:sample_count": 15928,
+            "core:freq_upper_edge": 2435625000,
+            "core:freq_lower_edge": 2434375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.39997100830078
+        },
+        {
+            "core:sample_start": 12941952,
+            "core:sample_count": 15976,
+            "core:freq_upper_edge": 2431625000,
+            "core:freq_lower_edge": 2430375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.956867218017578
+        },
+        {
+            "core:sample_start": 12991968,
+            "core:sample_count": 15980,
+            "core:freq_upper_edge": 2439625000,
+            "core:freq_lower_edge": 2438375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.423797607421875
+        },
+        {
+            "core:sample_start": 13441890,
+            "core:sample_count": 16056,
+            "core:freq_upper_edge": 2406625000,
+            "core:freq_lower_edge": 2405375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.151775360107422
+        },
+        {
+            "core:sample_start": 13491948,
+            "core:sample_count": 16006,
+            "core:freq_upper_edge": 2414625000,
+            "core:freq_lower_edge": 2413375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.1654052734375
+        },
+        {
+            "core:sample_start": 13641944,
+            "core:sample_count": 15998,
+            "core:freq_upper_edge": 2418625000,
+            "core:freq_lower_edge": 2417375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.23239517211914
+        },
+        {
+            "core:sample_start": 13691964,
+            "core:sample_count": 15964,
+            "core:freq_upper_edge": 2422625000,
+            "core:freq_lower_edge": 2421375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.276317596435547
+        },
+        {
+            "core:sample_start": 13741942,
+            "core:sample_count": 16026,
+            "core:freq_upper_edge": 2416625000,
+            "core:freq_lower_edge": 2415375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.307039260864258
+        },
+        {
+            "core:sample_start": 13791970,
+            "core:sample_count": 15968,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.809242248535156
+        },
+        {
+            "core:sample_start": 13816922,
+            "core:sample_count": 6346,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.24294090270996
+        },
+        {
+            "core:sample_start": 13941888,
+            "core:sample_count": 33562,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.838890075683594
+        },
+        {
+            "core:sample_start": 14016936,
+            "core:sample_count": 6346,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.35078239440918
+        },
+        {
+            "core:sample_start": 14191418,
+            "core:sample_count": 13126,
+            "core:freq_upper_edge": 2402625000,
+            "core:freq_lower_edge": 2401375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 14.906254768371582
+        },
+        {
+            "core:sample_start": 14251530,
+            "core:sample_count": 12876,
+            "core:freq_upper_edge": 2426625000,
+            "core:freq_lower_edge": 2425375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.13835906982422
+        },
+        {
+            "core:sample_start": 15641974,
+            "core:sample_count": 6346,
+            "core:freq_upper_edge": 2436625000,
+            "core:freq_lower_edge": 2435375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.720508575439453
+        },
+        {
+            "core:sample_start": 15691944,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2438625000,
+            "core:freq_lower_edge": 2437375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.998699188232422
+        },
+        {
+            "core:sample_start": 15741962,
+            "core:sample_count": 6356,
+            "core:freq_upper_edge": 2432625000,
+            "core:freq_lower_edge": 2431375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.736072540283203
+        },
+        {
+            "core:sample_start": 15791980,
+            "core:sample_count": 6328,
+            "core:freq_upper_edge": 2434625000,
+            "core:freq_lower_edge": 2433375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.32701873779297
+        },
+        {
+            "core:sample_start": 16041914,
+            "core:sample_count": 6454,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.077465057373047
+        },
+        {
+            "core:sample_start": 16091894,
+            "core:sample_count": 6506,
+            "core:freq_upper_edge": 2422625000,
+            "core:freq_lower_edge": 2421375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.291282653808594
+        },
+        {
+            "core:sample_start": 16141934,
+            "core:sample_count": 6424,
+            "core:freq_upper_edge": 2416625000,
+            "core:freq_lower_edge": 2415375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.23880386352539
+        },
+        {
+            "core:sample_start": 16191950,
+            "core:sample_count": 6388,
+            "core:freq_upper_edge": 2418625000,
+            "core:freq_lower_edge": 2417375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.985179901123047
+        },
+        {
+            "core:sample_start": 16241972,
+            "core:sample_count": 6354,
+            "core:freq_upper_edge": 2428625000,
+            "core:freq_lower_edge": 2427375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.739547729492188
+        },
+        {
+            "core:sample_start": 16291968,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2430625000,
+            "core:freq_lower_edge": 2429375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.798572540283203
+        },
+        {
+            "core:sample_start": 16316878,
+            "core:sample_count": 13506,
+            "core:freq_upper_edge": 2430625000,
+            "core:freq_lower_edge": 2429375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.191665649414062
+        },
+        {
+            "core:sample_start": 16341938,
+            "core:sample_count": 6396,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.185699462890625
+        },
+        {
+            "core:sample_start": 16366948,
+            "core:sample_count": 8718,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 24.148941040039062
+        },
+        {
+            "core:sample_start": 16866390,
+            "core:sample_count": 13136,
+            "core:freq_upper_edge": 2402625000,
+            "core:freq_lower_edge": 2401375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.212377548217773
+        },
+        {
+            "core:sample_start": 16926524,
+            "core:sample_count": 12874,
+            "core:freq_upper_edge": 2426625000,
+            "core:freq_lower_edge": 2425375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.088483810424805
+        },
+        {
+            "core:sample_start": 18941862,
+            "core:sample_count": 14384,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.893600463867188
+        },
+        {
+            "core:sample_start": 18966892,
+            "core:sample_count": 14274,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.66059684753418
+        },
+        {
+            "core:sample_start": 18991860,
+            "core:sample_count": 17960,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.53452491760254
+        },
+        {
+            "core:sample_start": 19066950,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2411625000,
+            "core:freq_lower_edge": 2410375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.321590423583984
+        },
+        {
+            "core:sample_start": 19091908,
+            "core:sample_count": 39314,
+            "core:freq_upper_edge": 2431625000,
+            "core:freq_lower_edge": 2430375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.722585678100586
+        },
+        {
+            "core:sample_start": 19166956,
+            "core:sample_count": 6348,
+            "core:freq_upper_edge": 2431625000,
+            "core:freq_lower_edge": 2430375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.61858558654785
+        },
+        {
+            "core:sample_start": 19191936,
+            "core:sample_count": 12038,
+            "core:freq_upper_edge": 2427625000,
+            "core:freq_lower_edge": 2426375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.928367614746094
+        },
+        {
+            "core:sample_start": 19216936,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2427625000,
+            "core:freq_lower_edge": 2426375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.710411071777344
+        },
+        {
+            "core:sample_start": 19241934,
+            "core:sample_count": 6458,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.905582427978516
+        },
+        {
+            "core:sample_start": 19266934,
+            "core:sample_count": 6328,
+            "core:freq_upper_edge": 2405625000,
+            "core:freq_lower_edge": 2404375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.35311508178711
+        },
+        {
+            "core:sample_start": 20141972,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2435625000,
+            "core:freq_lower_edge": 2434375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.469867706298828
+        },
+        {
+            "core:sample_start": 20166882,
+            "core:sample_count": 13526,
+            "core:freq_upper_edge": 2435625000,
+            "core:freq_lower_edge": 2434375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 19.862276077270508
+        },
+        {
+            "core:sample_start": 21291882,
+            "core:sample_count": 33566,
+            "core:freq_upper_edge": 2412625000,
+            "core:freq_lower_edge": 2411375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.232452392578125
+        },
+        {
+            "core:sample_start": 21366872,
+            "core:sample_count": 33522,
+            "core:freq_upper_edge": 2412625000,
+            "core:freq_lower_edge": 2411375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.905372619628906
+        },
+        {
+            "core:sample_start": 21491978,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2416625000,
+            "core:freq_lower_edge": 2415375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.11873435974121
+        },
+        {
+            "core:sample_start": 21516938,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2416625000,
+            "core:freq_lower_edge": 2415375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.035850524902344
+        },
+        {
+            "core:sample_start": 22691938,
+            "core:sample_count": 6398,
+            "core:freq_upper_edge": 2412625000,
+            "core:freq_lower_edge": 2411375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.962299346923828
+        },
+        {
+            "core:sample_start": 22716968,
+            "core:sample_count": 6326,
+            "core:freq_upper_edge": 2412625000,
+            "core:freq_lower_edge": 2411375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.208837509155273
+        },
+        {
+            "core:sample_start": 25241984,
+            "core:sample_count": 6368,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.842771530151367
+        },
+        {
+            "core:sample_start": 25266944,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.91878890991211
+        },
+        {
+            "core:sample_start": 25291984,
+            "core:sample_count": 6356,
+            "core:freq_upper_edge": 2427625000,
+            "core:freq_lower_edge": 2426375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.770618438720703
+        },
+        {
+            "core:sample_start": 25316874,
+            "core:sample_count": 6508,
+            "core:freq_upper_edge": 2427625000,
+            "core:freq_lower_edge": 2426375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.163928985595703
+        },
+        {
+            "core:sample_start": 26291928,
+            "core:sample_count": 13496,
+            "core:freq_upper_edge": 2433625000,
+            "core:freq_lower_edge": 2432375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.869035720825195
+        },
+        {
+            "core:sample_start": 26316918,
+            "core:sample_count": 13486,
+            "core:freq_upper_edge": 2433625000,
+            "core:freq_lower_edge": 2432375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 20.10788345336914
+        },
+        {
+            "core:sample_start": 26341956,
+            "core:sample_count": 6418,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.417194366455078
+        },
+        {
+            "core:sample_start": 26366976,
+            "core:sample_count": 6328,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.673320770263672
+        },
+        {
+            "core:sample_start": 26441954,
+            "core:sample_count": 6418,
+            "core:freq_upper_edge": 2413625000,
+            "core:freq_lower_edge": 2412375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.546810150146484
+        },
+        {
+            "core:sample_start": 26466984,
+            "core:sample_count": 6316,
+            "core:freq_upper_edge": 2413625000,
+            "core:freq_lower_edge": 2412375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.026607513427734
+        },
+        {
+            "core:sample_start": 27541976,
+            "core:sample_count": 6376,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.531166076660156
+        },
+        {
+            "core:sample_start": 27566986,
+            "core:sample_count": 6318,
+            "core:freq_upper_edge": 2419625000,
+            "core:freq_lower_edge": 2418375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.86566925048828
+        },
+        {
+            "core:sample_start": 27591976,
+            "core:sample_count": 6366,
+            "core:freq_upper_edge": 2423625000,
+            "core:freq_lower_edge": 2422375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.782752990722656
+        },
+        {
+            "core:sample_start": 27616886,
+            "core:sample_count": 6506,
+            "core:freq_upper_edge": 2423625000,
+            "core:freq_lower_edge": 2422375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.316116333007812
+        },
+        {
+            "core:sample_start": 28791876,
+            "core:sample_count": 33692,
+            "core:freq_upper_edge": 2406625000,
+            "core:freq_lower_edge": 2405375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.75118637084961
+        },
+        {
+            "core:sample_start": 28866894,
+            "core:sample_count": 6440,
+            "core:freq_upper_edge": 2406625000,
+            "core:freq_lower_edge": 2405375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 25.0284366607666
+        },
+        {
+            "core:sample_start": 30041984,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2436625000,
+            "core:freq_lower_edge": 2435375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.118206024169922
+        },
+        {
+            "core:sample_start": 30066874,
+            "core:sample_count": 13496,
+            "core:freq_upper_edge": 2436625000,
+            "core:freq_lower_edge": 2435375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 19.554508209228516
+        },
+        {
+            "core:sample_start": 30141962,
+            "core:sample_count": 6426,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.209476470947266
+        },
+        {
+            "core:sample_start": 30166952,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.797927856445312
+        },
+        {
+            "core:sample_start": 30191980,
+            "core:sample_count": 6368,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.041324615478516
+        },
+        {
+            "core:sample_start": 30216940,
+            "core:sample_count": 6338,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.299915313720703
+        },
+        {
+            "core:sample_start": 31341972,
+            "core:sample_count": 6386,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.214879989624023
+        },
+        {
+            "core:sample_start": 31366952,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2424625000,
+            "core:freq_lower_edge": 2423375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.848709106445312
+        },
+        {
+            "core:sample_start": 33441466,
+            "core:sample_count": 13056,
+            "core:freq_upper_edge": 2402625000,
+            "core:freq_lower_edge": 2401375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 15.864294052124023
+        },
+        {
+            "core:sample_start": 33501558,
+            "core:sample_count": 12866,
+            "core:freq_upper_edge": 2426625000,
+            "core:freq_lower_edge": 2425375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.146072387695312
+        },
+        {
+            "core:sample_start": 33841958,
+            "core:sample_count": 6418,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 17.969379425048828
+        },
+        {
+            "core:sample_start": 33866950,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2409625000,
+            "core:freq_lower_edge": 2408375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.83232879638672
+        },
+        {
+            "core:sample_start": 35141976,
+            "core:sample_count": 6388,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 19.835256576538086
+        },
+        {
+            "core:sample_start": 35166966,
+            "core:sample_count": 6346,
+            "core:freq_upper_edge": 2415625000,
+            "core:freq_lower_edge": 2414375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.589725494384766
+        },
+        {
+            "core:sample_start": 36291878,
+            "core:sample_count": 6578,
+            "core:freq_upper_edge": 2404625000,
+            "core:freq_lower_edge": 2403375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 18.235788345336914
+        },
+        {
+            "core:sample_start": 36316918,
+            "core:sample_count": 13476,
+            "core:freq_upper_edge": 2404625000,
+            "core:freq_lower_edge": 2403375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 21.834537506103516
+        },
+        {
+            "core:sample_start": 36441944,
+            "core:sample_count": 6458,
+            "core:freq_upper_edge": 2406625000,
+            "core:freq_lower_edge": 2405375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 16.834959030151367
+        },
+        {
+            "core:sample_start": 36466964,
+            "core:sample_count": 6336,
+            "core:freq_upper_edge": 2406625000,
+            "core:freq_lower_edge": 2405375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.922813415527344
+        },
+        {
+            "core:sample_start": 37591906,
+            "core:sample_count": 6538,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 23.278215408325195
+        },
+        {
+            "core:sample_start": 37616966,
+            "core:sample_count": 6346,
+            "core:freq_upper_edge": 2420625000,
+            "core:freq_lower_edge": 2419375000,
+            "core:description": "Bluetooth",
+            "core:generator": "OmniSIG Studio BD",
+            "capture_details:SNRdB": 22.92976951599121
+        }
+    ]
+}

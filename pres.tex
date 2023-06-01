@@ -1,0 +1,40 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{microtype}
+\usepackage{siunitx}
+\usepackage{xspace}
+\usepackage{tikz}
+\usepackage{pgfpages}
+\usepackage{pgfplots}
+\usepackage{circuitikz}
+\usepackage{adjustbox}
+\usepackage{textcomp}
+\usepackage{minted}
+\usepackage{multicol}
+\usetikzlibrary{shapes, chains, positioning}
+\usepgfplotslibrary{fillbetween}
+\useoutertheme{infolines}
+\setbeamertemplate{navigation symbols}{}%remove navigation symbols
+\usecolortheme[]{solarized}
+\colorlet{defaultcolor}{fg}
+\mode<handout>{%
+    \pgfpagesuselayout{2 on 1}[a4paper] 
+    \setbeameroption{show notes}
+}
+\newcommand{\BPF}[2] 
+{  % #1 = name , #2 = rotation angle
+\begin{scope}[transform shape,rotate=#2]
+\draw[thick] (#1)node[](a){} +(-12pt,-12pt) rectangle +(12pt,12pt);
+\draw (a) +(-8pt,0) to[bend left] +(0,0) edge[bend right] +(8pt,0);
+\draw ([yshift=5pt]a) +(-8pt,0) to[bend left] +(0,0) to[bend right] +(8pt,0);
+\draw ([yshift=-5pt]a) +(-8pt,0) to[bend left] +(0,0) edge[bend right] +(8pt,0);
+\draw[rotate=20] ([yshift=5pt]a) +(-4pt,0) -- +(7pt,0);
+\draw[rotate=20] ([yshift=-5pt]a) +(-7pt,0) -- +(4pt,0);
+\end{scope}
+}
+\input{header}
+\begin{document}
+\frame[plain]{\titlepage}
+\input{content}
+\end{document}
